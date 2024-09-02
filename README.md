@@ -1,22 +1,8 @@
-# Site - WebCars
-WebCars é uma aplicação web desenvolvida com React.js, que permite aos usuários explorar uma ampla gama de carros, filtrando-os por categoria, como SUVs, hatches, sedans, picapes e elétricos. A aplicação também oferece a opção de visualizar todos os carros disponíveis sem aplicar filtros. O projeto utiliza Styled Components para estilização, Axios para realizar requisições HTTP, realização e Context API para gerenciamento de estado, proporcionando uma experiência de usuário intuitiva e responsiva.
+# React + Vite
 
-Obs: Desenvolvimento
-![front](https://github.com/user-attachments/assets/aec9b323-a8bc-4d95-b06e-608aef2c2530)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-#Funcionalidades
-Filtro de Categorias: Permite aos usuários selecionar categorias específicas de carros, como SUVs, hatches, sedans, picapes e elétricos.
-Visualização Sem Filtro: Oferece a possibilidade de visualizar todos os carros disponíveis sem aplicar filtros.
-Integração com API: Consome uma API PHP, que interage com a API do Mercado Livre para obter informações sobre os carros.
-Gerenciamento de Estado com Context API: Utiliza Context API para gerenciar o estado da aplicação e compartilhar dados entre componentes de forma eficiente.
-Estilização com Styled Components: Aplica estilos de maneira modular e reutilizável utilizando Styled Components.
+Currently, two official plugins are available:
 
-#Tecnologias Utilizadas
-React.js: Biblioteca principal para construção da interface do usuário.
-Styled Components: Utilizado para estilização dos componentes de forma modular e encapsulada.
-Context API: Gerencia o estado global da aplicação e facilita o compartilhamento de dados entre componentes.
-Axios: Biblioteca para realizar requisições HTTP e gerenciar o fluxo de dados.
-
-Link Deploy: 
-
-Link API Back-end: https://github.com/Guilhermesoliveira21/API-WebCars
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
