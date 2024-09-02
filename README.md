@@ -15,6 +15,6 @@ Estilização com Styled Components: Aplica estilos de maneira modular e reutili
 React.js: Biblioteca principal para construção da interface do usuário.
 Styled Components: Utilizado para estilização dos componentes de forma modular e encapsulada.
 Context API: Gerencia o estado global da aplicação e facilita o compartilhamento de dados entre componentes.
-Axios: Biblioteca para realizar requisições HTTP e gerenciar o fluxo de dados.![Uploading veiculo.png…]()
+Axios: Biblioteca para realizar requisições HTTP e gerenciar o fluxo de dados.
 
 Link Deploy: 
